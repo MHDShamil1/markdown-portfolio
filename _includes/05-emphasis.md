@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hello*
+_It's me Shamil_
+
+**I am is good at mathematical reasoning**
+__and I am a great speecher also.__
+
+_That's **all** I can do._
+:tada:
